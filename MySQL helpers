@@ -1,0 +1,8 @@
+-- Quick InnoDB engine summary for troubleshooting.
+
+SHOW ENGINE INNODB STATUS\G
+
+-- Suggested follow-up queries (kept here as a "cheat sheet"):
+-- SHOW GLOBAL STATUS LIKE 'Threads_running';
+-- SHOW GLOBAL STATUS LIKE 'Innodb_row_lock%';
+-- SHOW GLOBAL VARIABLES LIKE 'innodb_buffer_pool_size';
