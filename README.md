@@ -2,14 +2,14 @@
 
 Production-ready tools, queries, and notes for **PostgreSQL** (primary focus), with supporting utilities for **MySQL** and **MongoDB**.
 
-> Built and maintained by [Balkrishna Pandey](https://github.com/balkrishna-p) – DBA & infrastructure engineer.
+> Built and maintained by [Balkrishna Pandey](https://github.com/balkrishna-p) – DBA & Solution engineer.
 
 ## 🔥 Focus
 
 - **PostgreSQL (primary)**
   - Replication lag checks
   - Replication slot monitoring
-  - Index bloat estimation
+  - Index bloat estimation 
   - HA & tuning notes
 
 - **MySQL (secondary)**
