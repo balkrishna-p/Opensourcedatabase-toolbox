@@ -1,4 +1,4 @@
-# PMyMo Plus Toolbox
+# PMyMo Toolbox
 
 Production-ready tools, queries, and notes for **PostgreSQL** (primary focus), with supporting utilities for **MySQL** and **MongoDB**.
 
